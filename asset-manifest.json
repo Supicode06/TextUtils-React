@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Supicode06/TextUtils-React.git/static/css/main.1cdbf67e.css",
+    "main.js": "/Supicode06/TextUtils-React.git/static/js/main.1ab12324.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Supicode06/TextUtils-React.git/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Supicode06/TextUtils-React.git/index.html",
+    "main.1cdbf67e.css.map": "/Supicode06/TextUtils-React.git/static/css/main.1cdbf67e.css.map",
+    "main.1ab12324.js.map": "/Supicode06/TextUtils-React.git/static/js/main.1ab12324.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Supicode06/TextUtils-React.git/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdbf67e.css",
+    "static/js/main.1ab12324.js"
+  ]
+}
